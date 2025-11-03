@@ -81,7 +81,7 @@ It detects both hazards simultaneously through a **Tkinter GUI**, processes vide
 
 | Fire and Accident Detection GUI | Email Alert Example |
 |--------------------------------|---------------------|
-| ![GUI Output](assets/gui_demo.png) | ![Email Alert](assets/email_alert.png) |
+| ![GUI Output](gui_demo.png) | ![Email Alert](email_alert.png) |
 
 ---
 
