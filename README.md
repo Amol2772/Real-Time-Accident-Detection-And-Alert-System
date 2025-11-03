@@ -21,6 +21,22 @@ It detects both hazards simultaneously through a **Tkinter GUI**, processes vide
 ✅ Both models demonstrate reliable and real-time capable performance.
 
 ---
+---
+
+## 📂 Dataset Access
+
+Your datasets are securely hosted on **Google Drive** for easy download and replication.  
+Click below to get them ⬇️
+
+| Dataset | Description | Download Link |
+|----------|--------------|----------------|
+| 🔥 **Fire Detection Dataset** | Includes labeled images of **fire** and **smoke** used for training YOLOv8 Fire Model. | [📥 Download Fire Dataset](https://drive.google.com/file/d/10y-UTm03myoGTVwBbpBRg6N2HugKSPjE/view?usp=drivesdk) |
+| 🚗 **Accident Detection Dataset** | Contains real-world **road accident** and **non-accident** images for YOLOv8 Accident Model. | [📥 Download Accident Dataset](https://drive.google.com/file/d/1otbIijst6n-RU5Yw9kvZOELmjuaAUvkj/view?usp=drivesdk) |
+
+> 💡 *Both datasets are custom-built and pre-labeled for object detection training with YOLOv8.*
+
+---
+
 
 ## 🧠 Features
 
