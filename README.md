@@ -1,4 +1,4 @@
-# 🔥 Fire and Accident Detection using YOLOv8 + Real-Time Email Alerts
+# Real Time Accident Detection And Alert System
 
 This project detects **Fire 🔥** and **Accidents 🚗** in real-time video streams using **YOLOv8** and sends **automated alert emails** to emergency departments — Fire Brigade, Police, and Hospital.
 
