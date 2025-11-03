@@ -55,7 +55,7 @@ Click below to get them ⬇️
 - **Dataset:** Custom dataset with `fire` and `smoke` classes  
 - **Images:** 895 (with 105 background images)  
 - **Instances:** 1443 labeled fire/smoke objects  
-- **Training Time:** ~1.5 hours on RTX 3050  
+- **Training Time:** 53 mins on RTX 3050  
 - **Results:**  
   - Precision: 0.6115  
   - Recall: 0.5359  
@@ -67,7 +67,7 @@ Click below to get them ⬇️
 - **Dataset:** Custom road accident dataset  
 - **Images:** 2974 (213 backgrounds)  
 - **Instances:** 3208 accident cases  
-- **Training Time:** ~2 hours on RTX 3050  
+- **Training Time:** ~1.5 hour on RTX 3050  
 - **Results:**  
   - Precision: 0.8910  
   - Recall: 0.8329  
