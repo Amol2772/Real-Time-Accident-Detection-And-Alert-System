@@ -1,0 +1,34 @@
+# 🔥 Fire & Accident Detection - Combined Requirements
+# Covers both YOLOv8 model training and GUI with Email Alert System
+
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Deep Learning and Object Detection
+torch>=2.0.0
+torchvision
+ultralytics==8.3.221
+
+# Computer Vision
+opencv-python
+pillow
+
+# GUI and Interface
+tk
+ttkbootstrap
+
+# Email & Networking
+smtplib
+email-validator
+
+# Jupyter Notebook (for model training & experimentation)
+notebook
+ipykernel
+
+# Utilities
+tqdm
+requests
+psutil
